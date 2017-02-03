@@ -13,4 +13,9 @@ According to wiki(https://en.wikipedia.org/wiki/Software_design_pattern),
 7. Design patterns may be viewed as a structured approach to computer programming intermediate between the levels of a programming paradigm and a concrete algorithm.
 
 
-Singleton falls under creational design patterns category, which ensures a class has only one instance and provide a global point of access to it.
+1. Singleton Design pattern - Singleton falls under creational design patterns category, which ensures a class has only one instance and provide a global point of access to it.
+
+2. Facade Design pattern - Facade falls under structural design patterns category, which provides a simplified interface to a larger body of code. It can be used when 
+	1. a simple interface is required to access a complex system.
+	2. a system is verly complex or difficult to understand.
+	3. an entry point is needed to each layer of a layered software.
